@@ -37,30 +37,32 @@ Aplikasi akan berjalan di `http://127.0.0.1:5000/`.
 
 ## Struktur Proyek
 Vedul-pro/
-│
-├── __pycache__/
-│ ├── config.cpython-310.pyc
-│ ├── config-cpython-311.pyc
-├── app/
-| ├──__pycache__/
-│ ├── static
-│ ├── templates
-│ ├── init.py
-│ ├── routes.py
-│ ├── models.py
-│ ├── forms.py
-│ ├── templates/
-│ └── static/
-│
-├── migrations/
-│
-├── venv/
-│
-├── pycache/
-│
-├── README.md
-├── app.db
-├── config.py
-├── flaskapp.py
-├── ft.txt
-└── get-pip.py
+    ```sh
+    │
+    ├── __pycache__/
+    │ ├── config.cpython-310.pyc
+    │ ├── config-cpython-311.pyc
+    ├── app/
+    | ├──__pycache__/
+    │ ├── static
+    │ ├── templates
+    │ ├── init.py
+    │ ├── routes.py
+    │ ├── models.py
+    │ ├── forms.py
+    │ ├── templates/
+    │ └── static/
+    │
+    ├── migrations/
+    │
+    ├── venv/
+    │
+    ├── pycache/
+    │
+    ├── README.md
+    ├── app.db
+    ├── config.py
+    ├── flaskapp.py
+    ├── ft.txt
+    └── get-pip.py
+    ```
