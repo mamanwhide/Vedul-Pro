@@ -10,7 +10,7 @@ Ikuti langkah-langkah berikut untuk menginstal aplikasi ini di lingkungan lokal 
 1. **Clone repositori ini**:
     ```sh
     git clone https://github.com/mamanwhide/Vedul-Pro.git
-    cd repo-name
+    cd Vedul-Pro
     ```
 
 2. **Buat virtual environment**:
